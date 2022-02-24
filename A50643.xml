@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter desiring information of the conference at the D. of P. mention'd in the letter to Mr. G.</title>
+            <author>Meredith, Edward, 1648-1689?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50643</idno>
+            <idno type="STC">Wing M1781</idno>
+            <idno type="STC">ESTC R23541</idno>
+            <idno type="EEBO-CITATION">12767309</idno>
+            <idno type="OCLC">ocm 12767309</idno>
+            <idno type="VID">93599</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50643)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93599)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 698:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter desiring information of the conference at the D. of P. mention'd in the letter to Mr. G.</title>
+                  <author>Meredith, Edward, 1648-1689?</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. 4.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stillingfleet, Edward, 1635-1699.</term>
+               <term>Gooden, Peter, d. 1695.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:93599:1"/>
+            <pb n="1" facs="tcp:93599:1" rendition="simple:additions"/>
+            <head>A LETTER Deſiring Information of the CONFERENCE At the <hi>D.</hi> of <hi>P.</hi> mention'd in the Letter to Mr. <hi>G.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Know not what to make of the Letter to Mr. <hi>G.</hi> On the one ſide it charges him with Diſingenuity, for <hi>giving out falſe and imper<g ref="char:EOLhyphen"/>fect Copies</hi> of a late Conference; and on the other confeſſes, That <hi>Mr. M. pretends the D. gave out falſe Copies</hi> too. And Mr. <hi>M.</hi> I am told, is a <hi>Man of Learning and Integrity,</hi> as well as the <hi>D's</hi> Copiſt, <hi>and was preſent at the whole Conference, and very well underſtood the whole Matter.</hi> Mr. <hi>G.</hi> is one with whom I have my ſelf ſome Ac<g ref="char:EOLhyphen"/>quaintance, and whom I know not to be ſo weak as the ſlighting Hints of the Letter would make him, tho' I do not think him ſtrong enough to make an Argument Scorn-proof: For to laugh off an Argument which becomes importunate, and will not take a civil Anſwer, is a ſure way, and which I have known practis'd. Thoſe who know him better, think there is not an honeſter Man in the Nation; and that if he have wrong'd the <hi>D.</hi> 'tis the firſt Wrong he did in his Life. The <hi>D.</hi> is a Man in Dignity, and than whom no body knows better what 'tis to defame his Neighbor, and poſt him up in Print for a Fool and a Knave: For that's the plain, tho' not the blunt Engliſh of <hi>Weak</hi> and <hi>Diſingenuous.</hi> What muſt I think of this mat<g ref="char:EOLhyphen"/>ter? Has the <hi>D.</hi> forgot himſelf? Or is Mr. <hi>G.</hi> in ſo ſhort a time become another Man, one who went into the Conference Honeſt and Able, and came out a diſingenuous Dunce?</p>
+            <pb n="2" facs="tcp:93599:2"/>
+            <p>This matter might, in my Opinion, have been better carry'd. Mr. <hi>G's</hi> Copies were given out, and came, I ſuppoſe, to the <hi>D's</hi> Hands while he was yet in Town, and might have been told what was falſe or imperfect in them, and made Satisfaction, if he had done any body Wrong. And I cannot comprehend why he was let alone, as long as he might have Anſwer'd for himſelf, and Poſted as ſoon as he was got a Hundred and fifty Miles off. Again, the <hi>Original Paper,</hi> which the Letter ſays was <hi>Read aloud and approv'd by both Parties,</hi> might have been publiſh'd, and all farther trouble ſav'd. A Copy agreed by both Sides would have put the Matter of Fact paſt Fending and Proving. By the way, in whoſe Hands do's this Original Paper re<g ref="char:EOLhyphen"/>main? I ſuppoſe not in Mr. <hi>G's,</hi> becauſe the Letter, inſtead of talk<g ref="char:EOLhyphen"/>ing of the Unauthentic Papers of his Writer, would in likelihood have complain'd of corrupting the Original. If it remain with the <hi>D.</hi> certainly Diſingenuity is a thing with which Mr. <hi>G.</hi> is unacquainted: For thoſe who are given to play Tricks, are ſuſpicious, and ſtand upon their Guard, and provide before-hand not to be caught. We may be ſure Mr. <hi>G.</hi> never dreamt of playing the <hi>D.</hi> foul, if he left in the <hi>D's</hi> Hands wherewith to be convinc'd of foul Play.</p>
+            <p>But yet the Letter will needs have him Diſingenuous, becauſe <hi>when the Papers of the Gentleman who writ for him, were neither Read, nor Compar'd, nor Sign'd as they ought to have been, with what Ingenuity can theſe be diſperſed through ſo many Hands for true and authentic Copies?</hi> Pray where is the Diſingenuity of diſperſing them for true, if they be true, and why are they the leſs true for not being formally Authentic? I for my part think, that no Reading, nor Comparing, nor Signing will make a thing true which is not, nor hinder a thing from being true which is. Yes; but <hi>they muſt be of very eaſie Faith and <g ref="char:V">Ʋ</g>nderſtanding, who would take his Word in this Matter, without ſo much as any Motive of Credibility.</hi> That is to ſay, he is a Fool who believes a Catholic upon his Word; a Complement which if Catho<g ref="char:EOLhyphen"/>lics ſhould return, we ſhould have comfortable living together. But the <hi>D.</hi> miſtakes his Man, and knows not how great a Motive of Credibility Mr. <hi>G's</hi> Word is, and how many Proteſtant Fools there are, if they be ſo who take his Word, than which no body, I believe, who knows him, will deſire more Aſſurance in any Matter of Fact.</p>
+            <p>But Mr. <hi>G.</hi> makes the <hi>D.</hi> barely put a Queſtion about the <hi>Greek</hi> Church, <hi>but mentions not the inference he drew from it, which is ſet down in the Original Paper approved by both Parties.</hi> And if it were no other, than <hi>that,</hi> which is ſet down in the Letter, viz. <hi>Then a Church holding to Tradition as its Rule, may err in matters of Faith,</hi> I for
+<pb n="3" facs="tcp:93599:2" rendition="simple:additions"/>my part do not ſee what neceſſity there was at all of ſetting it down, the Inference being ſo evident from the Premiſes, that every one that runs, might read it.</p>
+            <p>So that upon the whole, methinks here is much ado about nothing. And then for the two things which the <hi>D.</hi> deſires Mr. <hi>G.</hi> to make out, commend me to him for a man who loves to ſpare his own pains. 'Tis as much as to ſay, do you do all the work, and I will ſit by, and tell you whether it be well done or no, muſt Mr. <hi>G.</hi> prove <hi>that Prote<g ref="char:EOLhyphen"/>ſtants have no abſolute certainty?</hi> I thought it had concern'd them to be ſatisfied that they have. For ſome ſecurity ſure would not be a<g ref="char:EOLhyphen"/>miſs for Souls, as well as for Mony. I thought it had concern'd the <hi>D.</hi> as well as his Neighbors, to have an account of the hope which is in him, ready for all who ask it. He teaches Proteſtant Doctrin, and (if I miſtake him not) owns an abſolute certainty. Has he then nothing to do with making it appear that he is ſure of what he teaches, and what he owns; But deſire not to be troubled for that matter, and bid Mr. <hi>G.</hi> prove the contrary? I take no notice that the Queſtion is veered from certainty of Proteſtant Doctrin to cer<g ref="char:EOLhyphen"/>tainty of Scripture, as if it were all one to be certain of the Book, and certain of every thing for which 'tis quoted. Such matters I leave to thoſe who are or will be concern'd; but I think it not equal by any means that one ſide ſhould make all the Play.</p>
+            <p>I take the Second Propoſal for the fairer of the two, and wiſh they would ſhare it between them; Mr. <hi>G.</hi> anſwer the <hi>D</hi>'s objection, and the <hi>D.</hi> Mr. <hi>G</hi>'s Argument. The <hi>D.</hi> is too much a Scholar not to know he has not anſwer'd it yet, becauſe he knows an Argument is not anſwered, till ſome Propoſition in it be found falſe; ſome Term taken in a double ſenſe, or ill coupled with his fellow; in fine, till ſome fault be diſcovered. He meddles with nothing of this, but lets the Premiſes alone, and brings an objection againſt the Concluſion; a thing which may be done, and very ſpeciouſly, and very croſly a<g ref="char:EOLhyphen"/>gainſt as undeniable Truths as any in the World. For when will there want ſomething to ſay, and more than can eaſily be anſwered, againſt the diviſion of an Inch into as many parts, as an Ell? Or the moving of two Points towards one another perpetually, which notwithſtand<g ref="char:EOLhyphen"/>ing ſhall never meet? And yet both are palpably demonſtrable. Now as the <hi>D.</hi> ſays to Mr. <hi>G.</hi> anſwer my Objection, or elſe your Argument muſt be faulty; Mr. <hi>G.</hi> may ſay to the <hi>D.</hi> anſwer my Argument or elſe there muſt be a fault in your Objection: And as this is equally forcible on both ſides, they are debtors to one another. I ſuppoſe they will come to account, and let us, who ſtand by, know at laſt
+<pb n="4" facs="tcp:93599:3"/>where to venture our Souls; with the Proteſtant Certainty, or Catho<g ref="char:EOLhyphen"/>lic Infallibility.</p>
+            <p>For the reſt, becauſe I ſhould be ſorry to wrong either the <hi>D.</hi> or Mr. <hi>G.</hi> by my judgment, I pray you to get me information of the matter of fact, ſuch as I may relie upon. Particularly what <hi>the great care</hi> was <hi>which Mr.</hi> G. <hi>took in the Conference it ſelf, to keep the</hi> D. <hi>from expecting any great ingenuity from him after it:</hi> What there is <hi>falſe, or imperfect in his Copies:</hi> How it hapned that the Gentleman who writ for him, <hi>never read his Papers at the Concluſion:</hi> How the Copies given out by Mr. <hi>G.</hi> come to omit what <hi>is ſet down in the Ori<g ref="char:EOLhyphen"/>ginal Paper read aloud and approved by both Parties:</hi> What <hi>Arts have been uſed to get Mr.</hi> T. <hi>to approve his Copy:</hi> And above all, why the <hi>D.</hi> did not Print the <hi>Original Paper,</hi> which he ſays, was <hi>read aloud, and approved by both Parties,</hi> and which remained only in his own hands, that ſo the World, without more ado might have been ſatisfied of the mighty difference between it and Mr. <hi>G</hi>'s Copy? In fine, to ſay all in a word, procure me, if you can, a true account of the late Conference at the <hi>D.</hi> of <hi>P.</hi> For thô the title of the Letter promiſe one, I find no performance in the body, and remain as ignorant of what paſt, as before I read it.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Martii</hi> 22. 1687.</date>
+               </dateline>
+               <signed>I am Yours, &amp;c.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="printer_to_the_reader">
+            <head>The Printer to the Reader.</head>
+            <p>BEfore this Letter came to my hands, there was another in the Preſs, which gives that farther account of the Conference, which is deſired by this, being written by one who was preſent at it, ſo that (tho' it were not written on any hint from this Letter) it may ſerve for an Anſwer hereunto, and at the ſame time give the World a true and full account, of what hath made ſo great a noiſe in it. <hi>And it will be public within three or four days at fartheſt.</hi>
+            </p>
+            <p>Publiſht with Allowance.</p>
+         </div>
+         <div type="colophon">
+            <p>London, Printed by <hi>Henry Hills,</hi> Printer to the Kings moſt Excellent Majeſty, for his Houſhold and Chappel. And are to be ſold at his Print<g ref="char:EOLhyphen"/>ing-houſe in <hi>Black-fryers,</hi> on the Ditch-ſide; the <hi>Kings Arms</hi> being over the Door, <hi>1687.</hi>
+            </p>
+            <pb facs="tcp:93599:3" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
